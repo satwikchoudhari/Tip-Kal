@@ -1,5 +1,6 @@
 # **Tip-Kal** (Tip Calculator App)
 **Tip-Kal** helps to calcluate the amount of tip of a bill. This app uses the base amount and the amount of tip percentage to be given to caluculate the total amount to be deignated. It also shows the quality of service provided on the basis of the reaction below tip percentage.
+![](https://github.com/satwikchoudhari/tip_kal/blob/master/tipkal.png)
 ## **Use** (Functionality)
 **Let's see what functionality Tip-Kal provides:**
 * Customer can input their amount of bill.

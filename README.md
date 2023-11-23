@@ -6,3 +6,7 @@
 * Customer can select the amount of tip percentage(%) to be given.
 * The customer can see the reaction as a enoji on the basis of the tip percentage selected.
 * When the user changes any of the inputs(base amount or tip percentage) it instatly shows change in the output(tip and total amount)
+## **Video**
+![](https://github.com/satwikchoudhari/tip_kal/blob/master/ezgif.com-video-to-gif.gif)
+
+
